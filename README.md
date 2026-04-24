@@ -1,10 +1,10 @@
 # Promptenhance
 
 A web app to provide a top-down, template view for video generation. 
-* Create an image.
-* Create another image.
+* Generate an image.
+* Generate another image.
 * Combine the two images.
-* Create a video using the combined image and the prompt used to create it.
+* Turn the combined image into a video with the prompt used to generate it.
 
 Leveraging the following APIs, all via [Fal.ai](https://fal.ai/dashboard):
 * [Google DeepMind](https://deepmind.google/) [Imagen 4](https://fal.ai/models/fal-ai/imagen4/preview) for images.
