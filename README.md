@@ -29,10 +29,11 @@ Create [Fal.ai](https://fal.ai/dashboard) API key [here](https://fal.ai/dashboar
 
 Add `FAL_KEY="[FAL_KEY]"` to `.env`.
 
+Add `**/.env` to `.gitignore`.
+
 ## To-do
 
 - Add drop-down menus for:
     - Image generation models.
     - Video generation models.
     - Aspect ratio (for both image and video).
-    
