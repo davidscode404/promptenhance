@@ -8,7 +8,7 @@ A web app leveraging several APIs (all via [Fal.ai](https://fal.ai/dashboard)) t
 
 ![](images/promptenhance.png)
 
-[Demo video](https://youtu.be/mxB0_Cnp5eE) | [Click here to view *Realm of the Kingdom*](https://youtu.be/ZPXR_SzOJKs), a short film created with Promptenhance.
+[Demo](https://youtu.be/mxB0_Cnp5eE) | [Click here to view *Realm of the Kingdom*](https://youtu.be/ZPXR_SzOJKs), a short film created with Promptenhance.
 
 ![](images/rotk.jpg)
 
