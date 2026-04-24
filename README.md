@@ -1,5 +1,7 @@
 # promptenhance
 
+A web app to provide a more top-down view of the various stages of video generation.
+
 ## Setup
 
 Be sure to use a virtual environment:
