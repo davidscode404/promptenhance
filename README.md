@@ -44,16 +44,16 @@ Create .env:
 
 Create [Fal.ai](https://fal.ai/dashboard) API key [here](https://fal.ai/dashboard/keys).
 
-Add `FAL_KEY="[FAL_KEY]"` to `.env`.
+Add `FAL_KEY="[FAL_KEY]"` to `.env`
 
-Add `**/.env` to `.gitignore`.
+Add `**/.env` to `.gitignore`
 
 Run the app:
 > ```sh
 > $ streamlit run app.py
 > ```
 
-The app will be live at `http://localhost:8501`.
+The app will be live at `http://localhost:8501`
 
 ## To-do
 
