@@ -31,14 +31,8 @@ Add `FAL_KEY="[FAL_KEY]"` to `.env`.
 
 ## To-do
 
-- Item 1
-- Item 2
-- Item 3
-    - Sub Item 1
-    - Sub Item 2
-
-* Item 1
-* Item 2
-* Item 3
-    * Sub Item A
-    * Sub Item B
+- Add drop-down menus for:
+    - Image generation models.
+    - Video generation models.
+    - Aspect ratio (for both image and video).
+    
