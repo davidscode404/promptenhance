@@ -58,8 +58,8 @@ The app will be live at `http://localhost:8501`.
 ## To-do
 
 - Add drop-down menus for:
-    - Image generation models.
-    - Video generation models.
+    - Different image models.
+    - Different video models.
     - Aspect ratio (for both image and video).
 - Add duration option to video.
 - Add option for negative prompts.
