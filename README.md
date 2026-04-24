@@ -1,6 +1,12 @@
-# promptenhance
+# Promptenhance
 
-A web app to provide a more top-down view of the various stages of video generation.
+Demo video | *Realm of the Kingdom*, a short film created entirely with Promptenhance.
+
+A web app providing a top-down view of the entire process behind video generation.
+    * Create and image
+    * Create another image
+    * Combine the two images
+    * Create a  
 
 ![](images/promptenhance.png)
 
@@ -35,6 +41,13 @@ Add `FAL_KEY="[FAL_KEY]"` to `.env`.
 
 Add `**/.env` to `.gitignore`.
 
+Run the app:
+> ```sh
+> $ streamlit run app.py
+> ```
+
+The app will be live at `http://localhost:8501`.
+
 ## To-do
 
 - Add drop-down menus for:
@@ -42,4 +55,5 @@ Add `**/.env` to `.gitignore`.
     - Video generation models.
     - Aspect ratio (for both image and video).
     - Add duration option to video.
-- Work on a more elaborate frontend. ([Streamlit](https://streamlit.io/) is ideal for prototyping, but not the most presentable).
+- Work on a more elaborate frontend. ([Streamlit](https://streamlit.io/) is ideal for prototyping, but not the most presentable):
+    - On a related note, refactor the code. As of this writing, the entire app is one `.py` file.
