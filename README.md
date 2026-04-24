@@ -8,7 +8,7 @@ A web app leveraging several APIs (all via [Fal.ai](https://fal.ai/dashboard)) t
 
 ![](images/promptenhance.png)
 
-[Demo video](https://youtu.be/mxB0_Cnp5eE) | [Click here to view *Realm of the Kingdom*](https://youtu.be/ZPXR_SzOJKs), a short film created entirely with Promptenhance.
+[Demo video](https://youtu.be/mxB0_Cnp5eE) | [Click here to view *Realm of the Kingdom*](https://youtu.be/ZPXR_SzOJKs), a short film created with Promptenhance.
 
 ## Setup
 
@@ -16,16 +16,16 @@ Be sure to use a virtual environment:
 > ```sh
 > $ python3 -m venv venv
 > ```
-Here, `venv` is just an example, the virtual environment can be given *any* name.
+(Here, `venv` is just an example, the virtual environment can be given *any* name).
 
-To activate the virtual environment, run the following command:
+Activate the virtual environment:
 > ```sh
 > $ source venv/bin/activate
 > ```
 
 Upon activation, run `pip list`. Only `pip` and `setuptools` should be installed in the virtual environment.
 
-To install requirements, run:
+Install requirements:
 > ```sh
 > $ pip install -r requirements.txt
 > ```
