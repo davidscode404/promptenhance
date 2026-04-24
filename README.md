@@ -28,3 +28,17 @@ Create .env:
 Create [Fal.ai](https://fal.ai/dashboard) API key [here](https://fal.ai/dashboard/keys).
 
 Add `FAL_KEY="[FAL_KEY]"` to `.env`.
+
+## To-do
+
+- Item 1
+- Item 2
+- Item 3
+  - Sub Item 1
+  - Sub Item 2
+
+* Item 1
+* Item 2
+* Item 3
+  * Sub Item A
+  * Sub Item B
