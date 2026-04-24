@@ -37,4 +37,5 @@ Add `**/.env` to `.gitignore`.
     - Image generation models.
     - Video generation models.
     - Aspect ratio (for both image and video).
+    - Add duration option to video.
 - Work on a more elaborate frontend. ([Streamlit](https://streamlit.io/) is ideal for prototyping, but not the most presentable).
