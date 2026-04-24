@@ -1,6 +1,6 @@
 # Promptenhance
 
-A web app leveraging several APIs (all via [Fal.ai](https://fal.ai/dashboard)) to provide a top-down, template view of video generation. 
+A web app leveraging several APIs (all via [Fal.ai](https://fal.ai/dashboard)) to provide a top-down, template view for video generation. 
 * Create an image.
 * Create another image.
 * Combine the two images.
