@@ -55,5 +55,7 @@ The app will be live at `http://localhost:8501`.
     - Video generation models.
     - Aspect ratio (for both image and video).
     - Add duration option to video.
+- Add option for negative prompts.
+- Add prompt history.
 - Work on a more elaborate frontend. ([Streamlit](https://streamlit.io/) is ideal for prototyping, but not the most presentable):
     - On a related note, refactor the code. As of this writing, the entire app is one `.py` file.
