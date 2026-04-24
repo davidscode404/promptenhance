@@ -1,7 +1,5 @@
 # Promptenhance
 
-Demo video | *Realm of the Kingdom*, a short film created entirely with Promptenhance.
-
 A web app providing a top-down view of the entire process behind video generation.
 * Create and image.
 * Create another image.
@@ -9,6 +7,8 @@ A web app providing a top-down view of the entire process behind video generatio
 * Create a video using the combined image and the prompt used to create it.
 
 ![](images/promptenhance.png)
+
+Demo video | Click here to view *Realm of the Kingdom*, a short film created entirely with Promptenhance.
 
 ## Setup
 
