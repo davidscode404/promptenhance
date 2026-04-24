@@ -1,10 +1,15 @@
 # Promptenhance
 
-A web app leveraging several APIs (all via [Fal.ai](https://fal.ai/dashboard)) to provide a top-down, template view for video generation. 
+A web app to provide a top-down, template view for video generation. 
 * Create an image.
 * Create another image.
 * Combine the two images.
 * Create a video using the combined image and the prompt used to create it.
+
+Leveraging several APIs, all via [Fal.ai](https://fal.ai/dashboard):
+* [Google DeepMind](https://deepmind.google/) [Imagen 4](https://fal.ai/models/fal-ai/imagen4/preview) for images.
+* [Kling](https://kling.ai/) [2.1](https://fal.ai/models/fal-ai/kling-video/v2.1/master/image-to-video) for video.
+* [Fal's](https://fal.ai/dashboard) own [video prompt generator](https://fal.ai/models/fal-ai/video-prompt-generator) to get the ball rolling on prompts, giving Promptenhance its name. Using AI *in addition to* never *instead of* creativity.
 
 ![](images/promptenhance.png)
 
