@@ -25,4 +25,6 @@ Create .env:
 > $ touch .env
 > ```
 
-Add `FAL_KEY="[FAL_KEY]"` to `.env`. Create [Fal.ai](https://fal.ai/dashboard) API key [here](https://fal.ai/dashboard/keys).
+Create [Fal.ai](https://fal.ai/dashboard) API key [here](https://fal.ai/dashboard/keys).
+
+Add `FAL_KEY="[FAL_KEY]"` to `.env`.
