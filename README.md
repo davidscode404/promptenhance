@@ -40,5 +40,5 @@ Add `FAL_KEY="[FAL_KEY]"` to `.env`.
 * Item 1
 * Item 2
 * Item 3
-  * Sub Item A
-  * Sub Item B
+    * Sub Item A
+    * Sub Item B
