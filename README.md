@@ -2,6 +2,8 @@
 
 A web app to provide a more top-down view of the various stages of video generation.
 
+[](images/promptenhance.png)
+
 ## Setup
 
 Be sure to use a virtual environment:
