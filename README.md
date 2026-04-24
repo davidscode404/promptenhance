@@ -2,7 +2,7 @@
 
 A web app to provide a more top-down view of the various stages of video generation.
 
-[](images/promptenhance.png)
+![](images/promptenhance.png)
 
 ## Setup
 
