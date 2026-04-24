@@ -13,9 +13,10 @@ Leveraging the following APIs, all via [Fal.ai](https://fal.ai/dashboard):
 
 ![](images/promptenhance.png)
 
-[Web app demo](https://youtu.be/mxB0_Cnp5eE) | [Click here to view *Realm of the Kingdom*](https://youtu.be/ZPXR_SzOJKs), a short film created with Promptenhance.
-
 ![](images/rotk.jpg)
+
+* [Web app demo](https://youtu.be/mxB0_Cnp5eE)
+* [*Realm of the Kingdom*](https://youtu.be/ZPXR_SzOJKs), a short film created with Promptenhance.
 
 ## Setup
 
